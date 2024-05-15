@@ -1,5 +1,5 @@
 import React from "react";
-import RoutesApp from "./routes/Routes";
+import RoutesApp from "./routes/routes";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

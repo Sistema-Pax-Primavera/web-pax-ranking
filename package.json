@@ -1,7 +1,7 @@
 {
   "name": "@pax/pax-ranking",
   "scripts": {
-    "start": "webpack serve",
+    "start": "webpack serve --port 8091",
     "start:standalone": "webpack serve --env standalone",
     "build": "concurrently npm:build:*",
     "build:webpack": "webpack --mode=production",
@@ -43,8 +43,16 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.17",
+    "@mui/styled-engine": "^5.15.14",
+    "@mui/x-data-grid": "^7.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.23.0",
+    "react-toastify": "^10.0.5",
     "single-spa-react": "^4.3.1"
   }
 }

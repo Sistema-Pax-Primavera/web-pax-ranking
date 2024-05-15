@@ -1,0 +1,113 @@
+.container-ranking {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    transition: transform 0.5s;
+}
+
+.container-ranking.rotate {
+    overflow: hidden;
+    transform: rotate(-90deg) translateY(-73%);
+    transform-origin: top right;
+    width: 100vh;
+    height: 100vw;
+    right: 0;
+    bottom: 0;
+}
+
+.rotate-table {
+    width: auto;
+    /* Define a largura automática para permitir que a tabela ajuste seu tamanho */
+    height: calc(100vh - 15vh - 100px);
+    /* Adiciona uma barra de rolagem se necessário */
+}
+
+
+.header-ranking {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1px;
+    background-image: linear-gradient(-45deg, #146f43, #006b33, #0b3c26, #0f3425, #0a2a1d, #0b3c26, #03552b, #006b33), url('../../../assets/bg-side.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 15vh;
+    position: relative;
+}
+
+.header-ranking p {
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.header-controls {
+    display: flex;
+    align-items: center;
+    margin-right: 80px;
+}
+
+.header-controls select,
+.header-controls input[type="date"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.header-controls .buttons {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.header-controls .buttons button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #006b33;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.table-ranking {
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #ccc;
+    border-collapse: collapse;
+    /* height: calc(100vh - 11vh - 100px); */
+}
+
+.resumo-dados {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 99%;
+    padding: 10px;
+    background-image: linear-gradient(-45deg, #146f43, #006b33, #0b3c26, #0f3425, #0a2a1d, #0b3c26, #03552b, #006b33), url('../../../assets/bg-side.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resumo-dados p {
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.resumo-dados input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(50% - 5px);
+    /* Calcula a largura dos inputs com margem entre eles */
+    box-sizing: border-box;
+    /* Garante que o padding não aumente a largura total */
+}
