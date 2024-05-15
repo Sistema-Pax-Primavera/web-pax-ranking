@@ -6,6 +6,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
+import './tables.css'
 
 const TableComponent = ({ data }) => {
     const tableRef = useRef(null);
@@ -35,34 +36,35 @@ const TableComponent = ({ data }) => {
     }, []);
 
     return (
-        <div style={{ overflow: 'hidden', width: '100%' }}>
-            <TableContainer ref={tableRef} component={Paper} style={{ height: '500px', overflow: 'hidden' }}>
-                <Table sx={{ minWidth: 650 }} aria-label="simple table">
+        <div style={{ overflow: 'hidden',  }} className='container-tabelas-ranking'>
+            <TableContainer ref={tableRef} component={Paper} style={{  overflow: 'hidden', }}>
+                <Table sx={{  overflow: 'hidden',   }} aria-label="simple table">
                     <TableHead
                         style={{
                             position: 'sticky',
                             top: 0,
                             zIndex: 1,
+                            
                             backgroundColor: 'white'
                         }}>
                         <TableRow>
-                            <TableCell align="center" >Cobradores</TableCell>
-                            <TableCell align="center" >1ª Parcela</TableCell>
-                            <TableCell align="center" >2ª Parcela</TableCell>
-                            <TableCell align="center" >3ª Parcela</TableCell>
-                            <TableCell align="center" >Adiantados</TableCell>
-                            <TableCell align="center" >Pontuação</TableCell>
+                            <TableCell align="center"  ><p>Cobradores</p></TableCell>
+                            <TableCell align="center" ><p>1ª Parcela</p></TableCell>
+                            <TableCell align="center" ><p>2ª Parcela</p></TableCell>
+                            <TableCell align="center" ><p>3ª Parcela</p></TableCell>
+                            <TableCell align="center" ><p>Adiantados</p></TableCell>
+                            <TableCell align="center" ><p>Pontuação</p></TableCell>
                         </TableRow>
                     </TableHead>
-                    <TableBody>
+                    <TableBody sx={{  overflow: 'hidden',   }}>
                         {data.map((row, index) => (
-                            <TableRow key={index}>
-                                <TableCell align="center">{row.cobradores}</TableCell>
-                                <TableCell align="center">{row.parcela1}</TableCell>
-                                <TableCell align="center">{row.parcela2}</TableCell>
-                                <TableCell align="center">{row.parcela3}</TableCell>
-                                <TableCell align="center">{row.adiantados}</TableCell>
-                                <TableCell align="center" style={getColorByPercentage(row.pontuacao)}>{row.pontuacao}</TableCell>
+                            <TableRow key={index} sx={{  overflow: 'hidden',   }}>
+                                <TableCell align="center"><label>{row.cobradores}</label></TableCell>
+                                <TableCell align="center"><label>{row.parcela1}</label></TableCell>
+                                <TableCell align="center"><label>{row.parcela2}</label></TableCell>
+                                <TableCell align="center"><label>{row.parcela3}</label></TableCell>
+                                <TableCell align="center"><label>{row.adiantados}</label></TableCell>
+                                <TableCell align="center" style={getColorByPercentage(row.pontuacao)}><label>{row.pontuacao}</label></TableCell>
                             </TableRow>
                         ))}
                     </TableBody>
