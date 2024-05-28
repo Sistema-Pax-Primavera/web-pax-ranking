@@ -179,7 +179,7 @@ const RankingTV = () => {
       pontuacao: 66,
     },
     {
-      cobradores: "Cobrador 1",
+      cobradores: "Cobrador 21",
       parcela1: 10,
       parcela2: 50,
       parcela3: 20,
@@ -187,7 +187,7 @@ const RankingTV = () => {
       pontuacao: 30,
     },
     {
-      cobradores: "Cobrador 2",
+      cobradores: "Cobrador 22",
       parcela1: 12,
       parcela2: 80,
       parcela3: 22,
@@ -195,7 +195,7 @@ const RankingTV = () => {
       pontuacao: 35,
     },
     {
-      cobradores: "Cobrador 3",
+      cobradores: "Cobrador 23",
       parcela1: 9,
       parcela2: 30,
       parcela3: 18,
@@ -203,7 +203,7 @@ const RankingTV = () => {
       pontuacao: 27,
     },
     {
-      cobradores: "Cobrador 4",
+      cobradores: "Cobrador 24",
       parcela1: 15,
       parcela2: 60,
       parcela3: 25,
@@ -211,7 +211,7 @@ const RankingTV = () => {
       pontuacao: 33,
     },
     {
-      cobradores: "Cobrador 5",
+      cobradores: "Cobrador 25",
       parcela1: 11,
       parcela2: 75,
       parcela3: 20,
@@ -219,7 +219,7 @@ const RankingTV = () => {
       pontuacao: 36,
     },
     {
-      cobradores: "Cobrador 6",
+      cobradores: "Cobrador 26",
       parcela1: 13,
       parcela2: 70,
       parcela3: 21,
@@ -227,7 +227,7 @@ const RankingTV = () => {
       pontuacao: 38,
     },
     {
-      cobradores: "Cobrador 7",
+      cobradores: "Cobrador 27",
       parcela1: 14,
       parcela2: 55,
       parcela3: 23,
@@ -235,7 +235,7 @@ const RankingTV = () => {
       pontuacao: 64,
     },
     {
-      cobradores: "Cobrador 8",
+      cobradores: "Cobrador 28",
       parcela1: 16,
       parcela2: 65,
       parcela3: 26,
@@ -243,7 +243,7 @@ const RankingTV = () => {
       pontuacao: 34,
     },
     {
-      cobradores: "Cobrador 9",
+      cobradores: "Cobrador 29",
       parcela1: 18,
       parcela2: 68,
       parcela3: 28,
@@ -251,7 +251,7 @@ const RankingTV = () => {
       pontuacao: 37,
     },
     {
-      cobradores: "Cobrador 10",
+      cobradores: "Cobrador 30",
       parcela1: 17,
       parcela2: 90,
       parcela3: 30,
@@ -259,7 +259,7 @@ const RankingTV = () => {
       pontuacao: 40,
     },
     {
-      cobradores: "Cobrador 11",
+      cobradores: "Cobrador 31",
       parcela1: 10,
       parcela2: 50,
       parcela3: 20,
@@ -267,7 +267,7 @@ const RankingTV = () => {
       pontuacao: 30,
     },
     {
-      cobradores: "Cobrador 12",
+      cobradores: "Cobrador 32",
       parcela1: 12,
       parcela2: 80,
       parcela3: 22,
@@ -275,7 +275,7 @@ const RankingTV = () => {
       pontuacao: 35,
     },
     {
-      cobradores: "Cobrador 13",
+      cobradores: "Cobrador 33",
       parcela1: 9,
       parcela2: 30,
       parcela3: 18,
@@ -283,7 +283,7 @@ const RankingTV = () => {
       pontuacao: 27,
     },
     {
-      cobradores: "Cobrador 14",
+      cobradores: "Cobrador 34",
       parcela1: 15,
       parcela2: 60,
       parcela3: 25,
@@ -291,7 +291,7 @@ const RankingTV = () => {
       pontuacao: 33,
     },
     {
-      cobradores: "Cobrador 15",
+      cobradores: "Cobrador 35",
       parcela1: 11,
       parcela2: 75,
       parcela3: 20,
@@ -299,7 +299,7 @@ const RankingTV = () => {
       pontuacao: 36,
     },
     {
-      cobradores: "Cobrador 16",
+      cobradores: "Cobrador 36",
       parcela1: 13,
       parcela2: 70,
       parcela3: 21,
@@ -307,7 +307,7 @@ const RankingTV = () => {
       pontuacao: 38,
     },
     {
-      cobradores: "Cobrador 17",
+      cobradores: "Cobrador 37",
       parcela1: 14,
       parcela2: 55,
       parcela3: 23,
@@ -315,7 +315,7 @@ const RankingTV = () => {
       pontuacao: 31,
     },
     {
-      cobradores: "Cobrador 18",
+      cobradores: "Cobrador 38",
       parcela1: 16,
       parcela2: 65,
       parcela3: 26,
@@ -323,7 +323,7 @@ const RankingTV = () => {
       pontuacao: 34,
     },
     {
-      cobradores: "Cobrador 19",
+      cobradores: "Cobrador 39",
       parcela1: 18,
       parcela2: 68,
       parcela3: 28,
@@ -331,7 +331,7 @@ const RankingTV = () => {
       pontuacao: 81,
     },
     {
-      cobradores: "Cobrador 20",
+      cobradores: "Cobrador 40",
       parcela1: 17,
       parcela2: 90,
       parcela3: 30,
@@ -339,7 +339,7 @@ const RankingTV = () => {
       pontuacao: 66,
     },
     {
-      cobradores: "Cobrador 1",
+      cobradores: "Cobrador 41",
       parcela1: 10,
       parcela2: 50,
       parcela3: 20,
@@ -347,7 +347,7 @@ const RankingTV = () => {
       pontuacao: 30,
     },
     {
-      cobradores: "Cobrador 2",
+      cobradores: "Cobrador 42",
       parcela1: 12,
       parcela2: 80,
       parcela3: 22,
@@ -355,7 +355,7 @@ const RankingTV = () => {
       pontuacao: 35,
     },
     {
-      cobradores: "Cobrador 3",
+      cobradores: "Cobrador 43",
       parcela1: 9,
       parcela2: 30,
       parcela3: 18,
@@ -363,7 +363,7 @@ const RankingTV = () => {
       pontuacao: 27,
     },
     {
-      cobradores: "Cobrador 4",
+      cobradores: "Cobrador 44",
       parcela1: 15,
       parcela2: 60,
       parcela3: 25,
@@ -371,7 +371,7 @@ const RankingTV = () => {
       pontuacao: 33,
     },
     {
-      cobradores: "Cobrador 5",
+      cobradores: "Cobrador 45",
       parcela1: 11,
       parcela2: 75,
       parcela3: 20,
@@ -379,7 +379,7 @@ const RankingTV = () => {
       pontuacao: 36,
     },
     {
-      cobradores: "Cobrador 6",
+      cobradores: "Cobrador 46",
       parcela1: 13,
       parcela2: 70,
       parcela3: 21,
@@ -387,7 +387,7 @@ const RankingTV = () => {
       pontuacao: 38,
     },
     {
-      cobradores: "Cobrador 7",
+      cobradores: "Cobrador 47",
       parcela1: 14,
       parcela2: 55,
       parcela3: 23,
@@ -395,7 +395,7 @@ const RankingTV = () => {
       pontuacao: 64,
     },
     {
-      cobradores: "Cobrador 8",
+      cobradores: "Cobrador 48",
       parcela1: 16,
       parcela2: 65,
       parcela3: 26,
@@ -403,7 +403,7 @@ const RankingTV = () => {
       pontuacao: 34,
     },
     {
-      cobradores: "Cobrador 9",
+      cobradores: "Cobrador 49",
       parcela1: 18,
       parcela2: 68,
       parcela3: 28,
@@ -411,7 +411,7 @@ const RankingTV = () => {
       pontuacao: 37,
     },
     {
-      cobradores: "Cobrador 10",
+      cobradores: "Cobrador 50",
       parcela1: 17,
       parcela2: 90,
       parcela3: 30,
@@ -419,7 +419,7 @@ const RankingTV = () => {
       pontuacao: 40,
     },
     {
-      cobradores: "Cobrador 11",
+      cobradores: "Cobrador 51",
       parcela1: 10,
       parcela2: 50,
       parcela3: 20,
@@ -427,7 +427,7 @@ const RankingTV = () => {
       pontuacao: 30,
     },
     {
-      cobradores: "Cobrador 12",
+      cobradores: "Cobrador 52",
       parcela1: 12,
       parcela2: 80,
       parcela3: 22,
@@ -435,7 +435,7 @@ const RankingTV = () => {
       pontuacao: 35,
     },
     {
-      cobradores: "Cobrador 13",
+      cobradores: "Cobrador 53",
       parcela1: 9,
       parcela2: 30,
       parcela3: 18,
@@ -443,7 +443,7 @@ const RankingTV = () => {
       pontuacao: 27,
     },
     {
-      cobradores: "Cobrador 14",
+      cobradores: "Cobrador 54",
       parcela1: 15,
       parcela2: 60,
       parcela3: 25,
@@ -451,7 +451,7 @@ const RankingTV = () => {
       pontuacao: 33,
     },
     {
-      cobradores: "Cobrador 15",
+      cobradores: "Cobrador 55",
       parcela1: 11,
       parcela2: 75,
       parcela3: 20,
@@ -459,7 +459,7 @@ const RankingTV = () => {
       pontuacao: 36,
     },
     {
-      cobradores: "Cobrador 16",
+      cobradores: "Cobrador 56",
       parcela1: 13,
       parcela2: 70,
       parcela3: 21,
@@ -467,7 +467,7 @@ const RankingTV = () => {
       pontuacao: 38,
     },
     {
-      cobradores: "Cobrador 17",
+      cobradores: "Cobrador 57",
       parcela1: 14,
       parcela2: 55,
       parcela3: 23,
@@ -475,7 +475,7 @@ const RankingTV = () => {
       pontuacao: 31,
     },
     {
-      cobradores: "Cobrador 18",
+      cobradores: "Cobrador 58",
       parcela1: 16,
       parcela2: 65,
       parcela3: 26,
@@ -483,7 +483,7 @@ const RankingTV = () => {
       pontuacao: 34,
     },
     {
-      cobradores: "Cobrador 19",
+      cobradores: "Cobrador 59",
       parcela1: 18,
       parcela2: 68,
       parcela3: 28,
@@ -491,7 +491,7 @@ const RankingTV = () => {
       pontuacao: 81,
     },
     {
-      cobradores: "Cobrador 20",
+      cobradores: "Cobrador 60",
       parcela1: 17,
       parcela2: 90,
       parcela3: 30,
@@ -503,7 +503,6 @@ const RankingTV = () => {
   const [data, setData] = useState([]);
 
   const [isRotated, setIsRotated] = useState(false);
-  const [isFirstLoad, setIsFirstLoad] = useState(true);
 
   const handleRotateScreen = () => {
     console.log("Girando tela...");
@@ -518,8 +517,8 @@ const RankingTV = () => {
   }, []);
 
    return (
-    <div className={`container-ranking ${isRotated ? "rotate" : ""}`} style={{overflow: 'hidden'}}>
-      <div className="header-ranking" style={{overflow: 'hidden'}}>
+ <div className={`container-ranking ${isRotated ? "rotate" : ""}`} style={{ overflow: "hidden" }}>
+      <div className="header-ranking">
         <img
           src={Pax}
           alt="Logo"
@@ -527,22 +526,23 @@ const RankingTV = () => {
           style={{ width: "80px", marginLeft: "20px" }}
         />
         <div className="header-controls">
-          <div className="unidade-ranking3">
-            <p>Unidade</p>
-            <select>
-              {unidades.map((unidade, index) => (
-                <option key={index} value={unidade}>
-                  {unidade}
-                </option>
-              ))}
-            </select>
-          </div>
+          
           <div className="unidade-ranking2">
             <p>Tipo</p>
             <select>
               {tipos.map((tipo, index) => (
                 <option key={index} value={tipo}>
                   {tipo}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="unidade-ranking3">
+            <p>Unidade</p>
+            <select>
+              {unidades.map((unidade, index) => (
+                <option key={index} value={unidade}>
+                  {unidade}
                 </option>
               ))}
             </select>
@@ -580,7 +580,6 @@ const RankingTV = () => {
       <div
         className={`table-ranking ${isRotated ? "rotate-table" : ""}`}
         ref={tableWrapperRef}
-        style={{overflow: 'hidden'}}
       >
         <TableComponent data={data} />
       </div>

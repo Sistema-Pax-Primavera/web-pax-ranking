@@ -2,13 +2,11 @@
   width: 100%;
   height: 100%;
   margin: 0 auto;
-  overflow: none;
   position: relative;
   transition: transform 0.5s;
 }
 
 .container-ranking.rotate {
-  overflow: hidden;
   transform: rotate(-90deg) translateY(-73%);
   transform-origin: top right;
   width: 100vh;
@@ -221,9 +219,4 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.container-tabelas-ranking{
-  overflow: none;
-  overflow-x: none;
 }

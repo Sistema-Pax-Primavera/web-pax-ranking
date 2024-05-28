@@ -1,3 +1,8 @@
-container-tabelas-ranking{
-    overflow: hidden;
+.table-container {
+    height: 100%; /* Altura fixa do contêiner da tabela */
+    overflow: none !important;
+}
+
+.table-wrapper {
+    height: 100vh; /* A tabela preenche a altura do contêiner */
 }
